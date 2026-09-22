@@ -2,13 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/chemmyy-png"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: discord
+  icon: "fab fa-discord"
+  url: "https://discordapp.com/users/laze_lkj"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: tryhackme
+  icon: "fas fa-user-ninja"
+  url: "https://tryhackme.com/p/chemmyyuh"
 
 - type: rss
   icon: "fas fa-rss"
