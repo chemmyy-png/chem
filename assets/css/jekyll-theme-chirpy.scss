@@ -1,0 +1,9 @@
+---
+# Ref: https://github.com/jekyll/jekyll-sitemap/issues/217
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+@use 'main';
